@@ -19,21 +19,11 @@ This website serves as an interactive showcase of my work as a **Content Growth 
 ## 🛠️ Tech Stack & Tools
 
 ### **Development & Deployment**
-- **Frontend:** HTML5, CSS3, JavaScript (or specify framework, e.g., React, Next.js, Tailwind CSS)
+- **Frontend:** HTML5, CSS3, JavaScript
 - **Hosting / Deployment:** GitHub Pages / Vercel / Netlify
 
 ### **Creative & Analytics Tools Represented**
-- **Video Post-Production:** DaVinci Resolve, Adobe Premiere Pro, CapCut
+- **Video Post-Production:** CapCut, shotcut, 
 - **Publishing & Growth:** Substack, YouTube Studio, Social Media Analytics
 
 ---
-
-## 📂 Repository Structure
-
-```text
-.
-├── assets/          # Images, icons, static video thumbnails, and PDF resources
-├── css/             # Stylesheets and custom UI themes
-├── js/              # JavaScript scripts and interactive components
-├── index.html       # Main landing page / portfolio hub
-└── README.md        # Project documentation
